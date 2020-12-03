@@ -1,0 +1,5 @@
+https://github.com/satishgudapati/LCS.git
+https://github.com/satishgudapati/NRES.git
+https://github.com/satishgudapati/EEE-BUDGET.git
+https://github.com/satishgudapati/Print.git
+https://github.com/satishgudapati/NT.git
